@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node simpleSort.js",
+    "start index": "node index.js",
+    "start reader": "node reader.js",
+    "start simplesort": "node simpleSort.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
